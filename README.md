@@ -1,6 +1,8 @@
 # Budget_Nest
 Budgeting app built using Node.js, Typescript, NestJS, TypeORM, JWT, React.
 
+Both the backend and the frontend are served on a single NestJS server.
+
 To run, run the command "npm start" from the ./frontend directory.
 
 If running for the first time:
